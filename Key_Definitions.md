@@ -1,5 +1,5 @@
 ### Key Definitions
-- **Branches**: a unique set of code with a unique name, but still relevant to the repository you find it in. Every repository has at least one branch, and the default name for this is 'master'
+- **Branches**: a unique set of code with a unique name, but still relevant to the repository you find it in. Every repository has at least one branch, and the default name for this is usually 'main' or 'master'
 - **Clone**: making a copy of the code to your local computer to allow you to make edits using any software that you have
 - **Fork**: making a copy of a whole project in a separate repository. You can suggest changes to the original copy, or you can take this new fork and go mysteriously in the wind to be a coding maverick
 - **GIT**: imagine a one-man local word document that has saved all edits you've made to a it so you can go back to check them out
