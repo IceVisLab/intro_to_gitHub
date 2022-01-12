@@ -8,4 +8,4 @@ When things are stored locally, this means files which are present on your compu
 
 So, think of gitHub to coding what googleDocs is to Word - it allows multiple users to edit code online where it is clear to see who has done what and when.
 
-If you have any questions (and there are no stupid questions, ask anything! somebody else might be wondering the same thing as you but feeling shy and then by asking you've helped yourself and them too :) ), click the 'Discussions' tab above and post it there and we can all clear up ponderings and become gitHub proficient in no time!
+If you have any questions (and there are no stupid questions, ask anything), click the 'Discussions' tab above and post it there and we can all clear up ponderings and become gitHub proficient in no time!
