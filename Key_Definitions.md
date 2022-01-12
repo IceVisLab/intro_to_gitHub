@@ -7,7 +7,7 @@
   ![](https://user-images.githubusercontent.com/94135223/149182752-630bb6dd-3e4d-45c5-8e06-41a4b520956f.png)
 
 
-- **GIT**: imagine a one-man local word document that has saved all edits you've made to a it so you can go back to check them out
+- **GIT**: imagine a one-man local word document that has saved all edits you've made to it so you can go back to check them out
 - **GitHub**: an online GIT repository hosting service.
 - **Merge**: allows independent lines of development (AKA branches) to be integrated into a single branch
 - **Pull Request**: a request to tell others about changes to code you have made without changing the base code (yet) to allow for a team-review of the potential change.
