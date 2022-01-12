@@ -7,7 +7,9 @@ Here, I will give a quick overview of the basics, and key definitions that keep 
 When things are stored locally, this means files which are present on your computer, hard-drive etc. When things are stored remotely, it means they are stored in the cloud.
 
 To upload a local file to this repository, click the **Add File** button above, and then **Upload Files**.
+
 To create a remote file directly in gitHub, click click the **Add File** button above, and then **Create New File**.
+
 To save a remote file to your computer, click the green **Code** button and click **Download ZIP**. 
 
 If you have any questions (and there are no stupid questions, ask anything), click the 'Discussions' tab above and post it there - we can all clear up ponderings and become gitHub proficient in no time!
