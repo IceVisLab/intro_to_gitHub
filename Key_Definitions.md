@@ -4,7 +4,7 @@
 - **Fork**: making a copy of a whole project in a separate repository. You can suggest changes to the original copy, or you can take this new fork and go mysteriously in the wind to be a coding maverick
 
   To fork a repository, click the fork button in the top right corner (shown below)
-  ![](https://user-images.githubusercontent.com/94135223/149170372-02edbeba-55e8-490c-ae44-7ee4e77297ec.png)
+  ![](https://user-images.githubusercontent.com/94135223/149182752-630bb6dd-3e4d-45c5-8e06-41a4b520956f.png)
 
 
 - **GIT**: imagine a one-man local word document that has saved all edits you've made to a it so you can go back to check them out
